@@ -52,3 +52,9 @@ git flow release finish release_name<br />
 . To work on the hotfix:<br />
 git flow hotfix start hotfix_name<br />
 . Change any file you want<br />
+git add .<br />
+git commit -m “”<br />
+git flow hotfix finish hotfix_name<br />
+. control^C para sair<br />
+git commit -m ""
+git push —all<br />
